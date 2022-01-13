@@ -1,0 +1,5 @@
+[caps]
+platformName = "Android"
+deviceName = 'emulator-5554'
+app = "./build/app-debug.apk"
+avd = 'Pixel_4_API_30'
